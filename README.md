@@ -9,10 +9,10 @@ I'm enjoying to making great software/programs and helping others developer to d
 ```kotlin
 object **Name** {
  val name = "Jens Vermeerbergen"
- val acknowledgements = "Web Development"
+ val acknowledgements = "Back -End Developer"
  
  val primarySkillset = "Skills"
- val languages = listOf("HTML", "CSS", "JavaScript", "Laravel") 
+ val languages = listOf("Laravel & PHP", "HTML & CSS", "JavaScript", "DiscordJS") 
 }
 ```
 
